@@ -7,7 +7,7 @@ This problem provides practice at:
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
          and Harrison Finch.
-"""  # done: 1. PUT YOUR NAME IN THE ABOVE LINE.
+"""  #  done: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 ###############################################################################
 # Students:
